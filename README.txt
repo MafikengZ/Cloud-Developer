@@ -9,7 +9,7 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
-## URL: https://web-311603535989-bucket.s3.amazonaws.com/index.html
-## CloudFront endpoint: https://d2xccq6u3ynd4q.cloudfront.net/
+##URL: https://web-311603535989-bucket.s3.amazonaws.com/index.html
+##loudFront endpoint: https://d2xccq6u3ynd4q.cloudfront.net/
 
 
